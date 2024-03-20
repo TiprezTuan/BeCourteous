@@ -8,6 +8,6 @@ Les mots bannit sont dans le fichier .csv ;
 Pour quitter le programme, aller dans les icones cachés (en bas à droite de l'écran), clique droit puis quitter.
 
 Si vous voulez que le logiciel n'examine plus les mots tapé, écrivez "closelogs".
-  ** Attention ** 
+  ## Attention 
   L'application nécessitera un redémarrage si vous souhaitez le réutiliser.
   L'application ne sera pas quitté, seulement désactivé, suivez donc les étapes pour quitter le programme.
