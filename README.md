@@ -1,11 +1,9 @@
 # BeCourteous
 Application qui censure les mots inscrit dans le fichier csv.
 
-Les mots bannit sont dans le fichier .csv ;
-
-     - A gauche le mot qui sera supprimé 
-     
-     - A droite le mot qui le remplacera
+Les mots bannit sont dans le fichier .csv.
+     A gauche le mot qui sera supprimé 
+     A droite le mot qui le remplacera
 
 Pour quitter le programme, aller dans les icones cachés (en bas à droite de l'écran), clique droit puis quitter.
 
