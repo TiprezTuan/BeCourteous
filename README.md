@@ -13,4 +13,4 @@ L'application nécessitera un redémarrage si vous souhaitez le réutiliser.
 
 L'application ne sera pas quitté, seulement désactivé, suivez donc les étapes pour quitter le programme.
 
-L'executable à besoin des fichiers logs.txt, _internal, safeWords.csv ainsi que Icone_BeCourteous.ico dans le même dossier.
+L'executable à besoin des fichiers logs.txt, safeWords.csv ainsi que Icone_BeCourteous.ico dans le même dossier.
