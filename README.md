@@ -10,4 +10,5 @@ Pour quitter le programme, aller dans les icones cachés (en bas à droite de l'
 Si vous voulez que le logiciel n'examine plus les mots tapé, écrivez "closelogs".
 ## Attention 
 L'application nécessitera un redémarrage si vous souhaitez le réutiliser.
+
 L'application ne sera pas quitté, seulement désactivé, suivez donc les étapes pour quitter le programme.
